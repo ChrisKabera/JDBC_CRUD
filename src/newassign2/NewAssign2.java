@@ -7,7 +7,7 @@ package newassign2;
 
 /**
  *
- * @author GRACE
+ * @author Christian Kabera chrisskabera5@gmail.com
  */
 public class NewAssign2 {
 
